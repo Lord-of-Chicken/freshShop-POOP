@@ -1,4 +1,3 @@
-
 <!-- Start Instagram Feed  -->
 <div class="instagram-box">
     <div class="main-instagram owl-carousel owl-theme">
@@ -96,7 +95,9 @@
                     <div class="footer-top-box">
                         <h3>Business Time</h3>
                         <ul class="list-time">
-                            <li>Monday - Friday: 08.00am to 05.00pm</li> <li>Saturday: 10.00am to 08.00pm</li> <li>Sunday: <span>Closed</span></li>
+                            <li>Monday - Friday: 08.00am to 05.00pm</li>
+                            <li>Saturday: 10.00am to 08.00pm</li>
+                            <li>Sunday: <span>Closed</span></li>
                         </ul>
                     </div>
                 </div>
@@ -175,7 +176,8 @@
 <!-- Start copyright  -->
 <div class="footer-copyright">
     <p class="footer-company">All Rights Reserved. &copy; 2018 <a href="#">ThewayShop</a> Design By :
-        <a href="https://html.design/">html design</a></p>
+        <a href="https://html.design/">html design</a>
+    </p>
 </div>
 <!-- End copyright  -->
 
