@@ -1,5 +1,6 @@
 <?php require_once $_SERVER['DOCUMENT_ROOT'] . '/php/login/function.php'; ?>
-<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/php/login/db.php'; ?>
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/library/database.php'; ?>
+<?php $pdo = getPdo(); ?>
 <?php
 if (isset($_COOKIE['remember'])) {
     $remember_token = $_COOKIE['remember'];
